@@ -1,0 +1,20 @@
+.list-item {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 20%;
+  border-radius: 10px;
+  box-shadow: 2px 3px 3px 2px #e6e9ec;
+}
+
+.item-img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.item-name {
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 30px 20px;
+}

@@ -1,0 +1,18 @@
+.heading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f9;
+}
+
+.response-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 90%;
+  padding: 20px;
+}
+
+.web-logo {
+  width: 180px;
+}

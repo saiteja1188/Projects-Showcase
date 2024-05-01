@@ -1,0 +1,39 @@
+.select-container {
+  padding: 15px 12px;
+  width: 40%;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid #cbd5e1;
+}
+.ul-list {
+  width: 100vw;
+}
+
+.success-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-img {
+  width: 500px;
+}
+
+.button {
+  background-color: #328af2;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 8px 20px;
+  font-family: roboto;
+  font-size: 18px;
+  color: #ffffff;
+  border-radius: 5px;
+}
